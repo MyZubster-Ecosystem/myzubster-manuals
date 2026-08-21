@@ -57,3 +57,11 @@ Sensitive operational details should only be documented in the appropriate priva
 ## Contributing
 
 Prefer small manuals that a second person can execute from a clean environment. Include expected outputs without embedding secrets.
+
+---
+
+## Official project identity
+
+MyZubster is maintained within the [MyZubster-Ecosystem](https://github.com/MyZubster-Ecosystem) organization. Canonical public administrator/maintainer reference: **[Daniel Ioni (@DanielIoni-creator)](https://github.com/DanielIoni-creator)**.
+
+This link is a stable public project-identity reference. By itself, it is not a cryptographic signature or legal identity certification.
